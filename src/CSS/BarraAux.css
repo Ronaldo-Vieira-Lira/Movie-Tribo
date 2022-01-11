@@ -1,0 +1,12 @@
+#caixaBarra {
+    padding: 9px;
+}
+.itensUrls {
+    font-size: 1.5rem;
+    cursor: pointer;
+    border-bottom: 1px solid transparent;
+}
+.itensUrls:hover {
+    transition: 1.3s;
+    border-color: #fff;
+}
