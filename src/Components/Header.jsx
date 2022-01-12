@@ -1,5 +1,5 @@
 import React from "react";
-import "./Header.css";
+import "../CSS/Header.css";
 
 import Icone from "../Imagens/icone.svg"
 import Search from "../Imagens/search.svg"
